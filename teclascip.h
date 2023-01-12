@@ -1,0 +1,18 @@
+#DEFINE key_F1 28
+#DEFINE key_F2 -1
+#DEFINE key_F3 -2
+#DEFINE key_F4 -3
+#DEFINE key_F5 -4
+#DEFINE key_F6 -5
+#DEFINE key_F7 -6
+#DEFINE key_F8 -7
+#DEFINE key_F9 -8
+#DEFINE key_F10 -9
+#DEFINE key_F11 133
+#DEFINE key_F12 134 1
+#DEFINE key_enter 13
+#DEFINE key_esc   27
+#DEFINE clr_neut RGB(0,0,0)
+#DEFINE clr_blco RGB(255,255,255)
+#DEFINE clr_gris RGB(192,192,192)
+#DEFINE clr_roj0 RGB(255,0,0)
